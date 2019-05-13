@@ -15,7 +15,7 @@ function theBeatlesPlay(musicians, instruments) {
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts() {
+function johnLennonFacts(factsArray) {
   while () {
     ()
   }
